@@ -11,9 +11,12 @@ def pushAll():
 
 if __name__ == '__main__':
     start = time.time()
+    pull()
+    pushAll()
     while True:
         current_time = time.time()
         if current_time-start > 1:
             print("checked")
             pull()
             pushAll()
+        start = current_time
