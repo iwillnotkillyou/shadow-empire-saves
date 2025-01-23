@@ -204,3 +204,5 @@
 [1/23/2025 2:00:07 PM]     Laucher waiting for exe to shut
 [1/23/2025 3:55:16 PM]     Laucher Exiting
 [1/23/2025 3:55:16 PM]Button action compelled
+[23.01.2025 19:10:57]     Laucher Exiting
+[23.01.2025 19:10:57]Button action compelled
