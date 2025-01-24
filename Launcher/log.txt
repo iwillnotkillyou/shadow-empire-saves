@@ -616,3 +616,17 @@
 [24.01.2025 0:41:20]Button action compelled
 >>>>>>> e74d001f96c48ecc20511896ef6d34cb317db75a
 >>>>>>> 872a852d20537b6601c2be134976be8ffd17eeba
+[24.01.2025 16:41:50]User is considering: Manual
+[24.01.2025 16:41:50]User is no longer considering: Manual
+[24.01.2025 16:41:50]User is considering: Reset Game Settings
+[24.01.2025 16:41:50]User is no longer considering: Reset Game Settings
+[24.01.2025 16:41:50]User is considering: Play
+[24.01.2025 16:41:51]Button has been pressed
+[24.01.2025 16:41:51]Trying to play sound
+[24.01.2025 16:41:51]Sound played!
+[24.01.2025 16:41:51]     It was an exe, attempting start of exe
+[24.01.2025 16:41:51]     Killed Marketing Browser? True
+[24.01.2025 16:41:51]     arguments passed: 
+[24.01.2025 16:41:51]     Begining normal start
+[24.01.2025 16:41:51]     Application Started
+[24.01.2025 16:41:51]     Laucher shrunk
