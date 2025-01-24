@@ -192,3 +192,13 @@
 [24.01.2025 22:41:44]2 Marketing Browser made
 [24.01.2025 22:44:48]User is considering: Forum
 [24.01.2025 22:44:48]User is no longer considering: Forum
+[24.01.2025 22:45:00]User is considering: Play
+[24.01.2025 22:45:02]Button has been pressed
+[24.01.2025 22:45:02]Trying to play sound
+[24.01.2025 22:45:02]Sound played!
+[24.01.2025 22:45:02]     It was an exe, attempting start of exe
+[24.01.2025 22:45:02]     Killed Marketing Browser? True
+[24.01.2025 22:45:02]     arguments passed: 
+[24.01.2025 22:45:02]     Begining normal start
+[24.01.2025 22:45:02]     Application Started
+[24.01.2025 22:45:02]     Laucher shrunk
