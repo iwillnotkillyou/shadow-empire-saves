@@ -187,3 +187,15 @@
 [24.01.2025 22:17:35]2 Marketing panel internet testing
 [24.01.2025 22:17:35]2 Marketing panel internet has returned
 [24.01.2025 22:17:35]2 Marketing Browser made
+[24.01.2025 22:17:48]User is considering: Product Page
+[24.01.2025 22:17:48]User is no longer considering: Product Page
+[24.01.2025 22:17:49]User is considering: Play
+[24.01.2025 22:17:49]Button has been pressed
+[24.01.2025 22:17:49]Trying to play sound
+[24.01.2025 22:17:49]Sound played!
+[24.01.2025 22:17:49]     It was an exe, attempting start of exe
+[24.01.2025 22:17:49]     Killed Marketing Browser? False
+[24.01.2025 22:17:49]     arguments passed: 
+[24.01.2025 22:17:49]     Begining normal start
+[24.01.2025 22:17:49]     Application Started
+[24.01.2025 22:17:49]     Laucher shrunk
