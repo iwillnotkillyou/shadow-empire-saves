@@ -181,3 +181,12 @@
 [24.01.2025 22:41:43]community icon Has been created!!
 [24.01.2025 22:41:43]Launcher is set up!
 [24.01.2025 22:41:43]2 Marketing panel attached
+[24.01.2025 22:41:43]     New Pic box called: PictureBox_
+[24.01.2025 22:41:43]2 Marketing panel pic setting up
+[24.01.2025 22:41:43]2 Marketing panel pic attached
+[24.01.2025 22:41:43]2 Marketing panel internet testing
+[24.01.2025 22:41:43]2 Marketing panel internet has returned
+[24.01.2025 22:41:43]2 Marketing panel internet connected
+[24.01.2025 22:41:44]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[24.01.2025 22:41:44]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[24.01.2025 22:41:44]2 Marketing Browser made
