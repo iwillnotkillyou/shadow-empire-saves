@@ -200,3 +200,7 @@
 [25.01.2025 16:59:05]     Killed Marketing Browser? True
 [25.01.2025 16:59:05]     arguments passed: 
 [25.01.2025 16:59:05]     Begining normal start
+[25.01.2025 16:59:06]     Application Started
+[25.01.2025 16:59:06]     Laucher shrunk
+[25.01.2025 16:59:06]     Laucher hidden from taskbar
+[25.01.2025 16:59:06]     Laucher waiting for exe to shut
