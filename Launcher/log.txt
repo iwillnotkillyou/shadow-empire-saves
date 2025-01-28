@@ -190,3 +190,15 @@
 [28.01.2025 22:38:37]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
 [28.01.2025 22:38:37]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
 [28.01.2025 22:38:37]2 Marketing Browser made
+[28.01.2025 22:38:42]User is considering: Play
+[28.01.2025 22:38:43]Button has been pressed
+[28.01.2025 22:38:43]Trying to play sound
+[28.01.2025 22:38:43]Sound played!
+[28.01.2025 22:38:43]     It was an exe, attempting start of exe
+[28.01.2025 22:38:43]     Killed Marketing Browser? True
+[28.01.2025 22:38:43]     arguments passed: 
+[28.01.2025 22:38:43]     Begining normal start
+[28.01.2025 22:38:43]     Application Started
+[28.01.2025 22:38:43]     Laucher shrunk
+[28.01.2025 22:38:44]     Laucher hidden from taskbar
+[28.01.2025 22:38:44]     Laucher waiting for exe to shut
