@@ -206,3 +206,5 @@
 [28.01.2025 14:05:32]     Laucher shrunk
 [28.01.2025 14:05:33]     Laucher hidden from taskbar
 [28.01.2025 14:05:33]     Laucher waiting for exe to shut
+[28.01.2025 18:40:39]     Laucher Exiting
+[28.01.2025 18:40:39]Button action compelled
