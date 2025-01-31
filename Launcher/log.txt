@@ -406,3 +406,5 @@
 [31.01.2025 20:16:57]     Laucher hidden from taskbar
 [31.01.2025 20:16:57]     Laucher waiting for exe to shut
 >>>>>>> 10d964fbb7f6b5a808d7bb545383b3581d627258
+[31.01.2025 21:41:14]     Laucher Exiting
+[31.01.2025 21:41:14]Button action compelled
