@@ -187,3 +187,15 @@
 [31.01.2025 20:16:43]2 Marketing panel internet testing
 [31.01.2025 20:16:43]2 Marketing panel internet has returned
 [31.01.2025 20:16:43]2 Marketing Browser made
+[31.01.2025 20:16:56]User is considering: Play
+[31.01.2025 20:16:56]Button has been pressed
+[31.01.2025 20:16:56]Trying to play sound
+[31.01.2025 20:16:56]Sound played!
+[31.01.2025 20:16:56]     It was an exe, attempting start of exe
+[31.01.2025 20:16:56]     Killed Marketing Browser? False
+[31.01.2025 20:16:56]     arguments passed: 
+[31.01.2025 20:16:56]     Begining normal start
+[31.01.2025 20:16:56]     Application Started
+[31.01.2025 20:16:56]     Laucher shrunk
+[31.01.2025 20:16:57]     Laucher hidden from taskbar
+[31.01.2025 20:16:57]     Laucher waiting for exe to shut
