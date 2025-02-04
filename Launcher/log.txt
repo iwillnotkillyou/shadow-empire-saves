@@ -190,3 +190,12 @@
 [04.02.2025 13:24:15]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
 [04.02.2025 13:24:15]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
 [04.02.2025 13:24:15]2 Marketing Browser made
+[04.02.2025 13:24:52]User is considering: 
+[04.02.2025 13:24:52]User is considering: 
+[04.02.2025 13:24:52]User is no longer considering: 
+[04.02.2025 13:24:52]User is no longer considering: 
+[04.02.2025 13:24:52]User is considering: Manual
+[04.02.2025 13:24:52]User is no longer considering: Manual
+[04.02.2025 13:24:52]User is considering: Reset Game Settings
+[04.02.2025 13:24:52]User is no longer considering: Reset Game Settings
+[04.02.2025 13:24:52]User is considering: Play
