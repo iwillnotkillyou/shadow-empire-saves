@@ -187,3 +187,18 @@
 [07.02.2025 9:18:59]2 Marketing panel internet testing
 [07.02.2025 9:18:59]2 Marketing panel internet has returned
 [07.02.2025 9:18:59]2 Marketing panel internet connected
+[07.02.2025 9:19:01]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[07.02.2025 9:19:01]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[07.02.2025 9:19:01]2 Marketing Browser made
+[07.02.2025 9:19:01]User is considering: Play
+[07.02.2025 9:19:01]Button has been pressed
+[07.02.2025 9:19:01]Trying to play sound
+[07.02.2025 9:19:01]Sound played!
+[07.02.2025 9:19:01]     It was an exe, attempting start of exe
+[07.02.2025 9:19:01]     Killed Marketing Browser? True
+[07.02.2025 9:19:01]     arguments passed: 
+[07.02.2025 9:19:01]     Begining normal start
+[07.02.2025 9:19:03]     Application Started
+[07.02.2025 9:19:03]     Laucher shrunk
+[07.02.2025 9:19:03]     Laucher hidden from taskbar
+[07.02.2025 9:19:03]     Laucher waiting for exe to shut
