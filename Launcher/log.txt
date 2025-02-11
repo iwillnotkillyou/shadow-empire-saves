@@ -188,3 +188,11 @@
 [11.02.2025 14:00:31]2 Marketing panel internet testing
 [11.02.2025 14:00:31]2 Marketing panel internet has returned
 [11.02.2025 14:00:31]2 Marketing panel internet connected
+[11.02.2025 14:00:33]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[11.02.2025 14:00:33]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[11.02.2025 14:00:33]2 Marketing Browser made
+[11.02.2025 14:00:36]User is considering: Manual
+[11.02.2025 14:00:36]User is no longer considering: Manual
+[11.02.2025 14:00:36]User is considering: Reset Game Settings
+[11.02.2025 14:00:36]User is no longer considering: Reset Game Settings
+[11.02.2025 14:00:36]User is considering: Play
