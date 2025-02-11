@@ -196,3 +196,5 @@
 [11.02.2025 14:00:36]User is considering: Reset Game Settings
 [11.02.2025 14:00:36]User is no longer considering: Reset Game Settings
 [11.02.2025 14:00:36]User is considering: Play
+[11.02.2025 14:00:37]User is no longer considering: Play
+[11.02.2025 14:00:37]User is considering: Play
