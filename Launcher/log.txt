@@ -203,3 +203,14 @@
 [13.02.2025 9:24:06]User is considering: Reset Game Settings
 [13.02.2025 9:24:06]User is no longer considering: Reset Game Settings
 [13.02.2025 9:24:06]User is considering: Play
+[13.02.2025 9:24:06]Button has been pressed
+[13.02.2025 9:24:06]Trying to play sound
+[13.02.2025 9:24:06]Sound played!
+[13.02.2025 9:24:06]     It was an exe, attempting start of exe
+[13.02.2025 9:24:07]     Killed Marketing Browser? True
+[13.02.2025 9:24:07]     arguments passed: 
+[13.02.2025 9:24:07]     Begining normal start
+[13.02.2025 9:24:07]     Application Started
+[13.02.2025 9:24:07]     Laucher shrunk
+[13.02.2025 9:24:07]     Laucher hidden from taskbar
+[13.02.2025 9:24:07]     Laucher waiting for exe to shut
