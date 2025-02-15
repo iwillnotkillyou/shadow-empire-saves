@@ -187,3 +187,6 @@
 [15.02.2025 14:43:53]2 Marketing panel internet testing
 [15.02.2025 14:43:53]2 Marketing panel internet has returned
 [15.02.2025 14:43:53]2 Marketing panel internet connected
+[15.02.2025 14:43:54]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[15.02.2025 14:43:54]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[15.02.2025 14:43:54]2 Marketing Browser made
