@@ -194,3 +194,19 @@
 [15.02.2025 15:07:38]User is considering: 
 [15.02.2025 15:07:38]User is no longer considering: 
 [15.02.2025 15:07:38]User is no longer considering: 
+[15.02.2025 15:07:39]User is considering: Manual
+[15.02.2025 15:07:39]User is no longer considering: Manual
+[15.02.2025 15:07:39]User is considering: Reset Game Settings
+[15.02.2025 15:07:39]User is no longer considering: Reset Game Settings
+[15.02.2025 15:07:39]User is considering: Play
+[15.02.2025 15:07:39]Button has been pressed
+[15.02.2025 15:07:39]Trying to play sound
+[15.02.2025 15:07:39]Sound played!
+[15.02.2025 15:07:39]     It was an exe, attempting start of exe
+[15.02.2025 15:07:39]     Killed Marketing Browser? True
+[15.02.2025 15:07:39]     arguments passed: 
+[15.02.2025 15:07:39]     Begining normal start
+[15.02.2025 15:07:39]     Application Started
+[15.02.2025 15:07:39]     Laucher shrunk
+[15.02.2025 15:07:40]     Laucher hidden from taskbar
+[15.02.2025 15:07:40]     Laucher waiting for exe to shut
