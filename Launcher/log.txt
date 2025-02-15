@@ -140,3 +140,57 @@
 [15.02.2025 15:07:35]Button Has been created!!
 [15.02.2025 15:07:35]community icon Has been created!!
 [15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]Button begining created
+[15.02.2025 15:07:35]     Button is GameEXE:
+[15.02.2025 15:07:35]     \ShadowEmpire.exe
+[15.02.2025 15:07:35]     Button is Large
+[15.02.2025 15:07:35]Button Has been created!!
+[15.02.2025 15:07:35]Button begining created
+[15.02.2025 15:07:35]     Button is GameEXE:
+[15.02.2025 15:07:35]     \ConfigCopy.exe
+[15.02.2025 15:07:35]     Button is normal sized
+[15.02.2025 15:07:35]Button Has been created!!
+[15.02.2025 15:07:35]Button begining created
+[15.02.2025 15:07:35]     Button is Manual:
+[15.02.2025 15:07:35]     \Manuals\Shadow Empire manual EBOOK.pdf
+[15.02.2025 15:07:35]     Button is normal sized
+[15.02.2025 15:07:35]Button Has been created!!
+[15.02.2025 15:07:35]Starting button event binding
+[15.02.2025 15:07:35]button events have be bound
+[15.02.2025 15:07:35]Button begining created
+[15.02.2025 15:07:35]     Button is website:
+[15.02.2025 15:07:35]     https://store.steampowered.com/app/1154840
+[15.02.2025 15:07:35]     Button is called Product Page
+[15.02.2025 15:07:35]Button Has been created!!
+[15.02.2025 15:07:35]Button begining created
+[15.02.2025 15:07:35]     Button is website:
+[15.02.2025 15:07:35]     https://steamcommunity.com/app/1154840/discussions/
+[15.02.2025 15:07:35]     Button is called Forum
+[15.02.2025 15:07:35]Button Has been created!!
+[15.02.2025 15:07:35]Button begining created
+[15.02.2025 15:07:35]     Button is website:
+[15.02.2025 15:07:35]     https://help.steampowered.com/en/wizard/HelpWithGame/?appid=1154840
+[15.02.2025 15:07:35]     Button is called Support
+[15.02.2025 15:07:35]Button Has been created!!
+[15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]community icon Has been created!!
+[15.02.2025 15:07:35]Launcher is set up!
+[15.02.2025 15:07:35]2 Marketing panel attached
+[15.02.2025 15:07:35]     New Pic box called: PictureBox_
+[15.02.2025 15:07:35]2 Marketing panel pic setting up
+[15.02.2025 15:07:35]2 Marketing panel pic attached
+[15.02.2025 15:07:35]2 Marketing panel internet testing
+[15.02.2025 15:07:35]2 Marketing panel internet has returned
+[15.02.2025 15:07:35]2 Marketing panel internet connected
+[15.02.2025 15:07:36]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[15.02.2025 15:07:36]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
+[15.02.2025 15:07:36]2 Marketing Browser made
+[15.02.2025 15:07:38]User is considering: 
+[15.02.2025 15:07:38]User is considering: 
+[15.02.2025 15:07:38]User is no longer considering: 
+[15.02.2025 15:07:38]User is no longer considering: 
