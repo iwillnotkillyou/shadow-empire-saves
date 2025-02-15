@@ -192,3 +192,15 @@
 [15.02.2025 14:59:28]2 Marketing Browser made
 [15.02.2025 14:59:28]User is considering: Version: 1.26.16
 [15.02.2025 14:59:28]User is no longer considering: Version: 1.26.16
+[15.02.2025 14:59:28]User is considering: Play
+[15.02.2025 14:59:29]Button has been pressed
+[15.02.2025 14:59:29]Trying to play sound
+[15.02.2025 14:59:29]Sound played!
+[15.02.2025 14:59:29]     It was an exe, attempting start of exe
+[15.02.2025 14:59:29]     Killed Marketing Browser? True
+[15.02.2025 14:59:29]     arguments passed: 
+[15.02.2025 14:59:29]     Begining normal start
+[15.02.2025 14:59:29]     Application Started
+[15.02.2025 14:59:29]     Laucher shrunk
+[15.02.2025 14:59:29]     Laucher hidden from taskbar
+[15.02.2025 14:59:29]     Laucher waiting for exe to shut
