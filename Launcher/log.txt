@@ -185,3 +185,21 @@
 [07.03.2025 14:24:14]User is no longer considering: Version: 1.26.16
 [07.03.2025 14:24:14]     New Pic box called: PictureBox_
 [07.03.2025 14:24:14]2 Marketing panel pic setting up
+[07.03.2025 14:24:15]2 Marketing panel pic attached
+[07.03.2025 14:24:15]2 Marketing panel internet testing
+[07.03.2025 14:24:15]2 Marketing panel internet has returned
+[07.03.2025 14:24:15]2 Marketing Browser made
+[07.03.2025 14:24:15]User is considering: Version: 1.26.16
+[07.03.2025 14:24:15]User is no longer considering: Version: 1.26.16
+[07.03.2025 14:24:15]User is considering: Play
+[07.03.2025 14:24:16]Button has been pressed
+[07.03.2025 14:24:16]Trying to play sound
+[07.03.2025 14:24:16]Sound played!
+[07.03.2025 14:24:16]     It was an exe, attempting start of exe
+[07.03.2025 14:24:16]     Killed Marketing Browser? False
+[07.03.2025 14:24:16]     arguments passed: 
+[07.03.2025 14:24:16]     Begining normal start
+[07.03.2025 14:24:16]     Application Started
+[07.03.2025 14:24:16]     Laucher shrunk
+[07.03.2025 14:24:16]     Laucher hidden from taskbar
+[07.03.2025 14:24:16]     Laucher waiting for exe to shut
