@@ -200,3 +200,5 @@
 [26.03.2025 20:52:58]     Begining normal start
 [26.03.2025 20:52:58]     Application Started
 [26.03.2025 20:52:58]     Laucher shrunk
+[26.03.2025 20:52:59]     Laucher hidden from taskbar
+[26.03.2025 20:52:59]     Laucher waiting for exe to shut
