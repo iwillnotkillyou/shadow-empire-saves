@@ -1,402 +1,204 @@
-<<<<<<< HEAD
-[20.03.2025 11:59:28]Log created!
-[20.03.2025 11:59:28]If steam has started True
-[20.03.2025 11:59:28]   Steam_api.dll found
-[20.03.2025 11:59:28]If is in big picture mode: False
-[20.03.2025 11:59:28]If is started on the steam deck: False
-[20.03.2025 11:59:28]If is started on steam VR: False
-[20.03.2025 11:59:28]Starting System Info Collection
-[20.03.2025 11:59:28]        DragFullWindows : True
-[20.03.2025 11:59:28]        HighContrast : False
-[20.03.2025 11:59:28]        MouseWheelScrollLines : 3
-[20.03.2025 11:59:28]        PrimaryMonitorSize : {Width=1536, Height=864}
-[20.03.2025 11:59:28]        VerticalScrollBarWidth : 17
-[20.03.2025 11:59:28]        HorizontalScrollBarHeight : 17
-[20.03.2025 11:59:28]        CaptionHeight : 23
-[20.03.2025 11:59:28]        BorderSize : {Width=1, Height=1}
-[20.03.2025 11:59:28]        FixedFrameBorderSize : {Width=3, Height=3}
-[20.03.2025 11:59:28]        VerticalScrollBarThumbHeight : 17
-[20.03.2025 11:59:28]        HorizontalScrollBarThumbWidth : 17
-[20.03.2025 11:59:28]        IconSize : {Width=32, Height=32}
-[20.03.2025 11:59:28]        CursorSize : {Width=32, Height=32}
-[20.03.2025 11:59:28]        MenuFont : [Font: Name=Segoe UI, Size=12, Units=0, GdiCharSet=1, GdiVerticalFont=False]
-[20.03.2025 11:59:28]        MenuHeight : 20
-[20.03.2025 11:59:28]        PowerStatus : System.Windows.Forms.PowerStatus
-[20.03.2025 11:59:28]        WorkingArea : {X=0,Y=0,Width=1536,Height=816}
-[20.03.2025 11:59:28]        KanjiWindowHeight : 0
-[20.03.2025 11:59:28]        MousePresent : True
-[20.03.2025 11:59:28]        VerticalScrollBarArrowHeight : 17
-[20.03.2025 11:59:28]        HorizontalScrollBarArrowWidth : 17
-[20.03.2025 11:59:28]        DebugOS : False
-[20.03.2025 11:59:28]        MouseButtonsSwapped : False
-[20.03.2025 11:59:28]        MinimumWindowSize : {Width=136, Height=39}
-[20.03.2025 11:59:28]        CaptionButtonSize : {Width=36, Height=22}
-[20.03.2025 11:59:28]        FrameBorderSize : {Width=4, Height=4}
-[20.03.2025 11:59:28]        MinWindowTrackSize : {Width=136, Height=39}
-[20.03.2025 11:59:28]        DoubleClickSize : {Width=4, Height=4}
-[20.03.2025 11:59:28]        DoubleClickTime : 500
-[20.03.2025 11:59:28]        IconSpacingSize : {Width=75, Height=75}
-[20.03.2025 11:59:28]        RightAlignedMenus : False
-[20.03.2025 11:59:28]        PenWindows : False
-[20.03.2025 11:59:28]        DbcsEnabled : False
-[20.03.2025 11:59:28]        MouseButtons : 2
-[20.03.2025 11:59:28]        Secure : False
-[20.03.2025 11:59:28]        Border3DSize : {Width=2, Height=2}
-[20.03.2025 11:59:28]        MinimizedWindowSpacingSize : {Width=160, Height=28}
-[20.03.2025 11:59:28]        SmallIconSize : {Width=16, Height=16}
-[20.03.2025 11:59:28]        ToolWindowCaptionHeight : 23
-[20.03.2025 11:59:28]        ToolWindowCaptionButtonSize : {Width=22, Height=22}
-[20.03.2025 11:59:28]        MenuButtonSize : {Width=19, Height=19}
-[20.03.2025 11:59:28]        ArrangeStartingPosition : Hide
-[20.03.2025 11:59:28]        ArrangeDirection : Left
-[20.03.2025 11:59:28]        MinimizedWindowSize : {Width=160, Height=28}
-[20.03.2025 11:59:28]        MaxWindowTrackSize : {Width=1556, Height=884}
-[20.03.2025 11:59:28]        PrimaryMonitorMaximizedWindowSize : {Width=1552, Height=832}
-[20.03.2025 11:59:28]        Network : True
-[20.03.2025 11:59:28]        TerminalServerSession : False
-[20.03.2025 11:59:28]        BootMode : Normal
-[20.03.2025 11:59:28]        DragSize : {Width=4, Height=4}
-[20.03.2025 11:59:28]        ShowSounds : False
-[20.03.2025 11:59:28]        MenuCheckSize : {Width=15, Height=15}
-[20.03.2025 11:59:28]        MidEastEnabled : False
-[20.03.2025 11:59:28]        NativeMouseWheelSupport : False
-[20.03.2025 11:59:28]        MouseWheelPresent : False
-[20.03.2025 11:59:28]        VirtualScreen : {X=0,Y=0,Width=1536,Height=864}
-[20.03.2025 11:59:28]        MonitorCount : 1
-[20.03.2025 11:59:28]        MonitorsSameDisplayFormat : True
-[20.03.2025 11:59:28]        UserInteractive : True
-[20.03.2025 11:59:28]        IsDropShadowEnabled : True
-[20.03.2025 11:59:28]        IsFlatMenuEnabled : True
-[20.03.2025 11:59:28]        IsFontSmoothingEnabled : True
-[20.03.2025 11:59:28]        FontSmoothingContrast : 1200
-[20.03.2025 11:59:28]        FontSmoothingType : 2
-[20.03.2025 11:59:28]        IconHorizontalSpacing : 75
-[20.03.2025 11:59:28]        IconVerticalSpacing : 75
-[20.03.2025 11:59:28]        IsIconTitleWrappingEnabled : True
-[20.03.2025 11:59:28]        MenuAccessKeysUnderlined : False
-[20.03.2025 11:59:28]        KeyboardDelay : 1
-[20.03.2025 11:59:28]        IsKeyboardPreferred : False
-[20.03.2025 11:59:28]        KeyboardSpeed : 31
-[20.03.2025 11:59:28]        MouseHoverSize : {Width=4, Height=4}
-[20.03.2025 11:59:28]        MouseHoverTime : 400
-[20.03.2025 11:59:28]        MouseSpeed : 2
-[20.03.2025 11:59:28]        IsSnapToDefaultEnabled : False
-[20.03.2025 11:59:28]        PopupMenuAlignment : Right
-[20.03.2025 11:59:28]        IsMenuFadeEnabled : True
-[20.03.2025 11:59:28]        MenuShowDelay : 400
-[20.03.2025 11:59:28]        IsComboBoxAnimationEnabled : True
-[20.03.2025 11:59:28]        IsTitleBarGradientEnabled : True
-[20.03.2025 11:59:28]        IsHotTrackingEnabled : True
-[20.03.2025 11:59:28]        IsListBoxSmoothScrollingEnabled : True
-[20.03.2025 11:59:28]        IsMenuAnimationEnabled : True
-[20.03.2025 11:59:28]        IsSelectionFadeEnabled : True
-[20.03.2025 11:59:28]        IsToolTipAnimationEnabled : True
-[20.03.2025 11:59:28]        UIEffectsEnabled : True
-[20.03.2025 11:59:28]        IsActiveWindowTrackingEnabled : False
-[20.03.2025 11:59:28]        ActiveWindowTrackingDelay : 0
-[20.03.2025 11:59:28]        IsMinimizeRestoreAnimationEnabled : False
-[20.03.2025 11:59:28]        BorderMultiplierFactor : 1
-[20.03.2025 11:59:28]        CaretBlinkTime : 530
-[20.03.2025 11:59:28]        CaretWidth : 1
-[20.03.2025 11:59:28]        MouseWheelScrollDelta : 120
-[20.03.2025 11:59:28]        VerticalFocusThickness : 1
-[20.03.2025 11:59:28]        HorizontalFocusThickness : 1
-[20.03.2025 11:59:28]        VerticalResizeBorderThickness : 4
-[20.03.2025 11:59:28]        HorizontalResizeBorderThickness : 4
-[20.03.2025 11:59:28]        ScreenOrientation : Angle0
-[20.03.2025 11:59:28]        SizingBorderWidth : 1
-[20.03.2025 11:59:28]        SmallCaptionButtonSize : {Width=22, Height=22}
-[20.03.2025 11:59:28]        MenuBarButtonSize : {Width=19, Height=19}
-[20.03.2025 11:59:28]OS is: Windows
-[20.03.2025 11:59:28]    X64
-[20.03.2025 11:59:28]    Microsoft Windows 10.0.26100 
-[20.03.2025 11:59:28]System Info Collection Complete!
-[20.03.2025 11:59:28]Starting Hardware Info Collection
-[20.03.2025 11:59:28]Setings from MyDocuments loaded succeeded
-[20.03.2025 11:59:28]language set: English
-[20.03.2025 11:59:28]BackgroundImage set to main in user folder, which is Main
-[20.03.2025 11:59:28]BackgroundImage trying to load:C:\Games\Shadow.Empire.Build.16537802\Launcher\Images\Main.png
-[20.03.2025 11:59:28]Back groundImage has been loaded
-[20.03.2025 11:59:28]Theme loaded: Main
-[20.03.2025 11:59:28]Top Cover loaded: False
-[20.03.2025 11:59:28]Bottom Cover loaded: True
-[20.03.2025 11:59:28]Checking brand
-[20.03.2025 11:59:28]Setting up for: steam
-[20.03.2025 11:59:28]     Setting gameID to: shadow-empire
-[20.03.2025 11:59:28]     Setting website link to: https://store.steampowered.com/app/1154840
-[20.03.2025 11:59:28]     Setting support link to: https://store.steampowered.com/app/1154840
-[20.03.2025 11:59:28]     Setting forum link to: https://steamcommunity.com/app/1154840/discussions/
-[20.03.2025 11:59:28]     Setting logoWebsite link to: https://store.steampowered.com/publisher/Slitherine
-[20.03.2025 11:59:28]     Update button Hidden
-[20.03.2025 11:59:28]Steam set up!
-[20.03.2025 11:59:28]setting up for Marketing browser
-[20.03.2025 11:59:28]setting up buttons
-[20.03.2025 11:59:28]2 Making Marketing Browser
-[20.03.2025 11:59:28]2 Marketing panel setting up
-[20.03.2025 11:59:28]2 Marketing panel set up
-[20.03.2025 11:59:28]Button begining created
-[20.03.2025 11:59:28]     Button is file or folder
-[20.03.2025 11:59:28]     \whatsnew.pdf
-[20.03.2025 11:59:28]     Button is called Version: 1.26.16
-[20.03.2025 11:59:28]Button Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]Button begining created
-[20.03.2025 11:59:28]     Button is GameEXE:
-[20.03.2025 11:59:28]     \ShadowEmpire.exe
-[20.03.2025 11:59:28]     Button is Large
-[20.03.2025 11:59:28]Button Has been created!!
-[20.03.2025 11:59:28]Button begining created
-[20.03.2025 11:59:28]     Button is GameEXE:
-[20.03.2025 11:59:28]     \ConfigCopy.exe
-[20.03.2025 11:59:28]     Button is normal sized
-[20.03.2025 11:59:28]Button Has been created!!
-[20.03.2025 11:59:28]Button begining created
-[20.03.2025 11:59:28]     Button is Manual:
-[20.03.2025 11:59:28]     \Manuals\Shadow Empire manual EBOOK.pdf
-[20.03.2025 11:59:28]     Button is normal sized
-[20.03.2025 11:59:28]Button Has been created!!
-[20.03.2025 11:59:28]Starting button event binding
-[20.03.2025 11:59:28]button events have be bound
-[20.03.2025 11:59:28]Button begining created
-[20.03.2025 11:59:28]     Button is website:
-[20.03.2025 11:59:28]     https://store.steampowered.com/app/1154840
-[20.03.2025 11:59:28]     Button is called Product Page
-[20.03.2025 11:59:28]Button Has been created!!
-[20.03.2025 11:59:28]Button begining created
-[20.03.2025 11:59:28]     Button is website:
-[20.03.2025 11:59:28]     https://steamcommunity.com/app/1154840/discussions/
-[20.03.2025 11:59:28]     Button is called Forum
-[20.03.2025 11:59:28]Button Has been created!!
-[20.03.2025 11:59:28]Button begining created
-[20.03.2025 11:59:28]     Button is website:
-[20.03.2025 11:59:28]     https://help.steampowered.com/en/wizard/HelpWithGame/?appid=1154840
-[20.03.2025 11:59:28]     Button is called Support
-[20.03.2025 11:59:28]Button Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]community icon Has been created!!
-[20.03.2025 11:59:28]Launcher is set up!
-[20.03.2025 11:59:28]2 Marketing panel attached
-[20.03.2025 11:59:28]     New Pic box called: PictureBox_
-[20.03.2025 11:59:28]2 Marketing panel pic setting up
-[20.03.2025 11:59:28]2 Marketing panel pic attached
-[20.03.2025 11:59:28]2 Marketing panel internet testing
-[20.03.2025 11:59:28]2 Marketing panel internet has returned
-[20.03.2025 11:59:28]2 Marketing panel internet connected
-[20.03.2025 11:59:30]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
-[20.03.2025 11:59:30]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
-[20.03.2025 11:59:30]2 Marketing Browser made
-[20.03.2025 11:59:30]Attemting to close program
-=======
-[20.03.2025 19:42:15]Log created!
-[20.03.2025 19:42:16]If steam has started True
-[20.03.2025 19:42:16]   Steam_api.dll found
-[20.03.2025 19:42:16]If is in big picture mode: False
-[20.03.2025 19:42:16]If is started on the steam deck: False
-[20.03.2025 19:42:16]If is started on steam VR: False
-[20.03.2025 19:42:16]Starting System Info Collection
-[20.03.2025 19:42:16]        DragFullWindows : True
-[20.03.2025 19:42:16]        HighContrast : False
-[20.03.2025 19:42:16]        MouseWheelScrollLines : 3
-[20.03.2025 19:42:16]        PrimaryMonitorSize : {Width=1920, Height=1080}
-[20.03.2025 19:42:16]        VerticalScrollBarWidth : 17
-[20.03.2025 19:42:16]        HorizontalScrollBarHeight : 17
-[20.03.2025 19:42:16]        CaptionHeight : 23
-[20.03.2025 19:42:16]        BorderSize : {Width=1, Height=1}
-[20.03.2025 19:42:16]        FixedFrameBorderSize : {Width=3, Height=3}
-[20.03.2025 19:42:16]        VerticalScrollBarThumbHeight : 17
-[20.03.2025 19:42:16]        HorizontalScrollBarThumbWidth : 17
-[20.03.2025 19:42:16]        IconSize : {Width=32, Height=32}
-[20.03.2025 19:42:16]        CursorSize : {Width=32, Height=32}
-[20.03.2025 19:42:16]        MenuFont : [Font: Name=Segoe UI, Size=12, Units=0, GdiCharSet=1, GdiVerticalFont=False]
-[20.03.2025 19:42:16]        MenuHeight : 20
-[20.03.2025 19:42:16]        PowerStatus : System.Windows.Forms.PowerStatus
-[20.03.2025 19:42:16]        WorkingArea : {X=0,Y=0,Width=1920,Height=1032}
-[20.03.2025 19:42:16]        KanjiWindowHeight : 0
-[20.03.2025 19:42:16]        MousePresent : True
-[20.03.2025 19:42:16]        VerticalScrollBarArrowHeight : 17
-[20.03.2025 19:42:16]        HorizontalScrollBarArrowWidth : 17
-[20.03.2025 19:42:16]        DebugOS : False
-[20.03.2025 19:42:16]        MouseButtonsSwapped : False
-[20.03.2025 19:42:16]        MinimumWindowSize : {Width=136, Height=39}
-[20.03.2025 19:42:16]        CaptionButtonSize : {Width=36, Height=22}
-[20.03.2025 19:42:16]        FrameBorderSize : {Width=4, Height=4}
-[20.03.2025 19:42:16]        MinWindowTrackSize : {Width=136, Height=39}
-[20.03.2025 19:42:16]        DoubleClickSize : {Width=4, Height=4}
-[20.03.2025 19:42:16]        DoubleClickTime : 500
-[20.03.2025 19:42:16]        IconSpacingSize : {Width=75, Height=75}
-[20.03.2025 19:42:16]        RightAlignedMenus : False
-[20.03.2025 19:42:16]        PenWindows : False
-[20.03.2025 19:42:16]        DbcsEnabled : False
-[20.03.2025 19:42:16]        MouseButtons : 5
-[20.03.2025 19:42:16]        Secure : False
-[20.03.2025 19:42:16]        Border3DSize : {Width=2, Height=2}
-[20.03.2025 19:42:16]        MinimizedWindowSpacingSize : {Width=160, Height=28}
-[20.03.2025 19:42:16]        SmallIconSize : {Width=16, Height=16}
-[20.03.2025 19:42:16]        ToolWindowCaptionHeight : 23
-[20.03.2025 19:42:16]        ToolWindowCaptionButtonSize : {Width=22, Height=22}
-[20.03.2025 19:42:16]        MenuButtonSize : {Width=19, Height=19}
-[20.03.2025 19:42:16]        ArrangeStartingPosition : Hide
-[20.03.2025 19:42:16]        ArrangeDirection : Left
-[20.03.2025 19:42:16]        MinimizedWindowSize : {Width=160, Height=28}
-[20.03.2025 19:42:16]        MaxWindowTrackSize : {Width=3860, Height=1158}
-[20.03.2025 19:42:16]        PrimaryMonitorMaximizedWindowSize : {Width=1936, Height=1048}
-[20.03.2025 19:42:16]        Network : True
-[20.03.2025 19:42:16]        TerminalServerSession : False
-[20.03.2025 19:42:16]        BootMode : Normal
-[20.03.2025 19:42:16]        DragSize : {Width=4, Height=4}
-[20.03.2025 19:42:16]        ShowSounds : False
-[20.03.2025 19:42:16]        MenuCheckSize : {Width=15, Height=15}
-[20.03.2025 19:42:16]        MidEastEnabled : False
-[20.03.2025 19:42:16]        NativeMouseWheelSupport : True
-[20.03.2025 19:42:16]        MouseWheelPresent : True
-[20.03.2025 19:42:16]        VirtualScreen : {X=-1920,Y=0,Width=3840,Height=1138}
-[20.03.2025 19:42:16]        MonitorCount : 2
-[20.03.2025 19:42:16]        MonitorsSameDisplayFormat : True
-[20.03.2025 19:42:16]        UserInteractive : True
-[20.03.2025 19:42:16]        IsDropShadowEnabled : True
-[20.03.2025 19:42:16]        IsFlatMenuEnabled : True
-[20.03.2025 19:42:16]        IsFontSmoothingEnabled : True
-[20.03.2025 19:42:16]        FontSmoothingContrast : 1200
-[20.03.2025 19:42:16]        FontSmoothingType : 2
-[20.03.2025 19:42:16]        IconHorizontalSpacing : 75
-[20.03.2025 19:42:16]        IconVerticalSpacing : 75
-[20.03.2025 19:42:16]        IsIconTitleWrappingEnabled : True
-[20.03.2025 19:42:16]        MenuAccessKeysUnderlined : False
-[20.03.2025 19:42:16]        KeyboardDelay : 1
-[20.03.2025 19:42:16]        IsKeyboardPreferred : False
-[20.03.2025 19:42:16]        KeyboardSpeed : 31
-[20.03.2025 19:42:16]        MouseHoverSize : {Width=4, Height=4}
-[20.03.2025 19:42:16]        MouseHoverTime : 400
-[20.03.2025 19:42:16]        MouseSpeed : 9
-[20.03.2025 19:42:16]        IsSnapToDefaultEnabled : False
-[20.03.2025 19:42:16]        PopupMenuAlignment : Right
-[20.03.2025 19:42:16]        IsMenuFadeEnabled : True
-[20.03.2025 19:42:16]        MenuShowDelay : 400
-[20.03.2025 19:42:16]        IsComboBoxAnimationEnabled : True
-[20.03.2025 19:42:16]        IsTitleBarGradientEnabled : True
-[20.03.2025 19:42:16]        IsHotTrackingEnabled : True
-[20.03.2025 19:42:16]        IsListBoxSmoothScrollingEnabled : True
-[20.03.2025 19:42:16]        IsMenuAnimationEnabled : True
-[20.03.2025 19:42:16]        IsSelectionFadeEnabled : True
-[20.03.2025 19:42:16]        IsToolTipAnimationEnabled : True
-[20.03.2025 19:42:16]        UIEffectsEnabled : True
-[20.03.2025 19:42:16]        IsActiveWindowTrackingEnabled : False
-[20.03.2025 19:42:16]        ActiveWindowTrackingDelay : 0
-[20.03.2025 19:42:16]        IsMinimizeRestoreAnimationEnabled : False
-[20.03.2025 19:42:16]        BorderMultiplierFactor : 1
-[20.03.2025 19:42:16]        CaretBlinkTime : 530
-[20.03.2025 19:42:16]        CaretWidth : 1
-[20.03.2025 19:42:16]        MouseWheelScrollDelta : 120
-[20.03.2025 19:42:16]        VerticalFocusThickness : 1
-[20.03.2025 19:42:16]        HorizontalFocusThickness : 1
-[20.03.2025 19:42:16]        VerticalResizeBorderThickness : 4
-[20.03.2025 19:42:16]        HorizontalResizeBorderThickness : 4
-[20.03.2025 19:42:16]        ScreenOrientation : Angle0
-[20.03.2025 19:42:16]        SizingBorderWidth : 1
-[20.03.2025 19:42:16]        SmallCaptionButtonSize : {Width=22, Height=22}
-[20.03.2025 19:42:16]        MenuBarButtonSize : {Width=19, Height=19}
-[20.03.2025 19:42:16]OS is: Windows
-[20.03.2025 19:42:16]    X64
-[20.03.2025 19:42:16]    Microsoft Windows 10.0.26100 
-[20.03.2025 19:42:16]System Info Collection Complete!
-[20.03.2025 19:42:16]Starting Hardware Info Collection
-[20.03.2025 19:42:16]Setings from MyDocuments loaded succeeded
-[20.03.2025 19:42:16]language set: English
-[20.03.2025 19:42:16]BackgroundImage set to main in user folder, which is Main
-[20.03.2025 19:42:16]BackgroundImage trying to load:C:\Program Files (x86)\Steam\steamapps\common\Shadow Empire\Launcher\Images\Main.png
-[20.03.2025 19:42:16]Back groundImage has been loaded
-[20.03.2025 19:42:16]Theme loaded: Main
-[20.03.2025 19:42:16]Top Cover loaded: False
-[20.03.2025 19:42:16]Bottom Cover loaded: True
-[20.03.2025 19:42:16]Checking brand
-[20.03.2025 19:42:16]Setting up for: steam
-[20.03.2025 19:42:16]     Setting gameID to: shadow-empire
-[20.03.2025 19:42:16]     Setting website link to: https://store.steampowered.com/app/1154840
-[20.03.2025 19:42:16]     Setting support link to: https://store.steampowered.com/app/1154840
-[20.03.2025 19:42:16]     Setting forum link to: https://steamcommunity.com/app/1154840/discussions/
-[20.03.2025 19:42:16]     Setting logoWebsite link to: https://store.steampowered.com/publisher/Slitherine
-[20.03.2025 19:42:16]     Update button Hidden
-[20.03.2025 19:42:16]Steam set up!
-[20.03.2025 19:42:16]setting up for Marketing browser
-[20.03.2025 19:42:16]setting up buttons
-[20.03.2025 19:42:16]2 Making Marketing Browser
-[20.03.2025 19:42:16]2 Marketing panel setting up
-[20.03.2025 19:42:16]2 Marketing panel set up
-[20.03.2025 19:42:16]Button begining created
-[20.03.2025 19:42:16]     Button is file or folder
-[20.03.2025 19:42:16]     \whatsnew.pdf
-[20.03.2025 19:42:16]     Button is called Version: 1.26.16
-[20.03.2025 19:42:16]Button Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]Button begining created
-[20.03.2025 19:42:16]     Button is GameEXE:
-[20.03.2025 19:42:16]     \ShadowEmpire.exe
-[20.03.2025 19:42:16]     Button is Large
-[20.03.2025 19:42:16]Button Has been created!!
-[20.03.2025 19:42:16]Button begining created
-[20.03.2025 19:42:16]     Button is GameEXE:
-[20.03.2025 19:42:16]     \ConfigCopy.exe
-[20.03.2025 19:42:16]     Button is normal sized
-[20.03.2025 19:42:16]Button Has been created!!
-[20.03.2025 19:42:16]Button begining created
-[20.03.2025 19:42:16]     Button is Manual:
-[20.03.2025 19:42:16]     \Manuals\Shadow Empire manual EBOOK.pdf
-[20.03.2025 19:42:16]     Button is normal sized
-[20.03.2025 19:42:16]Button Has been created!!
-[20.03.2025 19:42:16]Starting button event binding
-[20.03.2025 19:42:16]button events have be bound
-[20.03.2025 19:42:16]Button begining created
-[20.03.2025 19:42:16]     Button is website:
-[20.03.2025 19:42:16]     https://store.steampowered.com/app/1154840
-[20.03.2025 19:42:16]     Button is called Product Page
-[20.03.2025 19:42:16]Button Has been created!!
-[20.03.2025 19:42:16]Button begining created
-[20.03.2025 19:42:16]     Button is website:
-[20.03.2025 19:42:16]     https://steamcommunity.com/app/1154840/discussions/
-[20.03.2025 19:42:16]     Button is called Forum
-[20.03.2025 19:42:16]Button Has been created!!
-[20.03.2025 19:42:16]Button begining created
-[20.03.2025 19:42:16]     Button is website:
-[20.03.2025 19:42:16]     https://help.steampowered.com/en/wizard/HelpWithGame/?appid=1154840
-[20.03.2025 19:42:16]     Button is called Support
-[20.03.2025 19:42:16]Button Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]community icon Has been created!!
-[20.03.2025 19:42:16]Launcher is set up!
-[20.03.2025 19:42:16]2 Marketing panel attached
-[20.03.2025 19:42:16]     New Pic box called: PictureBox_
-[20.03.2025 19:42:16]2 Marketing panel pic setting up
-[20.03.2025 19:42:16]2 Marketing panel pic attached
-[20.03.2025 19:42:16]2 Marketing panel internet testing
-[20.03.2025 19:42:16]2 Marketing panel internet has returned
-[20.03.2025 19:42:16]2 Marketing panel internet connected
-[20.03.2025 19:42:20]     Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
-[20.03.2025 19:42:20]     2 Navigating to: https://www.matrixgames.com/newlauncher/steam/game/shadow-empire
-[20.03.2025 19:42:20]2 Marketing Browser made
-[20.03.2025 19:42:20]User is considering: Play
-[20.03.2025 19:42:20]Button has been pressed
-[20.03.2025 19:42:20]Trying to play sound
-[20.03.2025 19:42:20]Sound played!
-[20.03.2025 19:42:20]     It was an exe, attempting start of exe
-[20.03.2025 19:42:20]     Killed Marketing Browser? True
-[20.03.2025 19:42:20]     arguments passed: 
-[20.03.2025 19:42:20]     Begining normal start
-[20.03.2025 19:42:20]     Application Started
-[20.03.2025 19:42:20]     Laucher shrunk
-[20.03.2025 19:42:21]     Laucher hidden from taskbar
-[20.03.2025 19:42:21]     Laucher waiting for exe to shut
-[20.03.2025 20:00:46]     Laucher Exiting
-[20.03.2025 20:00:46]Button action compelled
->>>>>>> b5f06cb4660e7efdc97a5318caa9f9f89b6babfc
+[26.03.2025 20:50:10]Log created!
+[26.03.2025 20:50:11]If steam has started True
+[26.03.2025 20:50:11]   Steam_api.dll found
+[26.03.2025 20:50:11]If is in big picture mode: False
+[26.03.2025 20:50:11]If is started on the steam deck: False
+[26.03.2025 20:50:11]If is started on steam VR: False
+[26.03.2025 20:50:11]Starting System Info Collection
+[26.03.2025 20:50:11]        DragFullWindows : True
+[26.03.2025 20:50:11]        HighContrast : False
+[26.03.2025 20:50:11]        MouseWheelScrollLines : 3
+[26.03.2025 20:50:11]        PrimaryMonitorSize : {Width=1920, Height=1080}
+[26.03.2025 20:50:11]        VerticalScrollBarWidth : 17
+[26.03.2025 20:50:11]        HorizontalScrollBarHeight : 17
+[26.03.2025 20:50:11]        CaptionHeight : 23
+[26.03.2025 20:50:11]        BorderSize : {Width=1, Height=1}
+[26.03.2025 20:50:11]        FixedFrameBorderSize : {Width=3, Height=3}
+[26.03.2025 20:50:11]        VerticalScrollBarThumbHeight : 17
+[26.03.2025 20:50:11]        HorizontalScrollBarThumbWidth : 17
+[26.03.2025 20:50:11]        IconSize : {Width=32, Height=32}
+[26.03.2025 20:50:11]        CursorSize : {Width=32, Height=32}
+[26.03.2025 20:50:11]        MenuFont : [Font: Name=Segoe UI, Size=12, Units=0, GdiCharSet=1, GdiVerticalFont=False]
+[26.03.2025 20:50:11]        MenuHeight : 20
+[26.03.2025 20:50:11]        PowerStatus : System.Windows.Forms.PowerStatus
+[26.03.2025 20:50:11]        WorkingArea : {X=0,Y=0,Width=1920,Height=1032}
+[26.03.2025 20:50:11]        KanjiWindowHeight : 0
+[26.03.2025 20:50:11]        MousePresent : True
+[26.03.2025 20:50:11]        VerticalScrollBarArrowHeight : 17
+[26.03.2025 20:50:11]        HorizontalScrollBarArrowWidth : 17
+[26.03.2025 20:50:11]        DebugOS : False
+[26.03.2025 20:50:11]        MouseButtonsSwapped : False
+[26.03.2025 20:50:11]        MinimumWindowSize : {Width=136, Height=39}
+[26.03.2025 20:50:11]        CaptionButtonSize : {Width=36, Height=22}
+[26.03.2025 20:50:11]        FrameBorderSize : {Width=4, Height=4}
+[26.03.2025 20:50:11]        MinWindowTrackSize : {Width=136, Height=39}
+[26.03.2025 20:50:11]        DoubleClickSize : {Width=4, Height=4}
+[26.03.2025 20:50:11]        DoubleClickTime : 500
+[26.03.2025 20:50:11]        IconSpacingSize : {Width=75, Height=75}
+[26.03.2025 20:50:11]        RightAlignedMenus : False
+[26.03.2025 20:50:11]        PenWindows : False
+[26.03.2025 20:50:11]        DbcsEnabled : False
+[26.03.2025 20:50:11]        MouseButtons : 5
+[26.03.2025 20:50:11]        Secure : False
+[26.03.2025 20:50:11]        Border3DSize : {Width=2, Height=2}
+[26.03.2025 20:50:11]        MinimizedWindowSpacingSize : {Width=160, Height=28}
+[26.03.2025 20:50:11]        SmallIconSize : {Width=16, Height=16}
+[26.03.2025 20:50:11]        ToolWindowCaptionHeight : 23
+[26.03.2025 20:50:11]        ToolWindowCaptionButtonSize : {Width=22, Height=22}
+[26.03.2025 20:50:11]        MenuButtonSize : {Width=19, Height=19}
+[26.03.2025 20:50:11]        ArrangeStartingPosition : Hide
+[26.03.2025 20:50:11]        ArrangeDirection : Left
+[26.03.2025 20:50:11]        MinimizedWindowSize : {Width=160, Height=28}
+[26.03.2025 20:50:11]        MaxWindowTrackSize : {Width=3860, Height=1158}
+[26.03.2025 20:50:11]        PrimaryMonitorMaximizedWindowSize : {Width=1936, Height=1048}
+[26.03.2025 20:50:11]        Network : True
+[26.03.2025 20:50:11]        TerminalServerSession : False
+[26.03.2025 20:50:11]        BootMode : Normal
+[26.03.2025 20:50:11]        DragSize : {Width=4, Height=4}
+[26.03.2025 20:50:11]        ShowSounds : False
+[26.03.2025 20:50:11]        MenuCheckSize : {Width=15, Height=15}
+[26.03.2025 20:50:11]        MidEastEnabled : False
+[26.03.2025 20:50:11]        NativeMouseWheelSupport : True
+[26.03.2025 20:50:11]        MouseWheelPresent : True
+[26.03.2025 20:50:11]        VirtualScreen : {X=-1920,Y=0,Width=3840,Height=1138}
+[26.03.2025 20:50:11]        MonitorCount : 2
+[26.03.2025 20:50:11]        MonitorsSameDisplayFormat : True
+[26.03.2025 20:50:11]        UserInteractive : True
+[26.03.2025 20:50:11]        IsDropShadowEnabled : True
+[26.03.2025 20:50:11]        IsFlatMenuEnabled : True
+[26.03.2025 20:50:11]        IsFontSmoothingEnabled : True
+[26.03.2025 20:50:11]        FontSmoothingContrast : 1200
+[26.03.2025 20:50:11]        FontSmoothingType : 2
+[26.03.2025 20:50:11]        IconHorizontalSpacing : 75
+[26.03.2025 20:50:11]        IconVerticalSpacing : 75
+[26.03.2025 20:50:11]        IsIconTitleWrappingEnabled : True
+[26.03.2025 20:50:11]        MenuAccessKeysUnderlined : False
+[26.03.2025 20:50:11]        KeyboardDelay : 1
+[26.03.2025 20:50:11]        IsKeyboardPreferred : False
+[26.03.2025 20:50:11]        KeyboardSpeed : 31
+[26.03.2025 20:50:11]        MouseHoverSize : {Width=4, Height=4}
+[26.03.2025 20:50:11]        MouseHoverTime : 400
+[26.03.2025 20:50:11]        MouseSpeed : 9
+[26.03.2025 20:50:11]        IsSnapToDefaultEnabled : False
+[26.03.2025 20:50:11]        PopupMenuAlignment : Right
+[26.03.2025 20:50:11]        IsMenuFadeEnabled : True
+[26.03.2025 20:50:11]        MenuShowDelay : 400
+[26.03.2025 20:50:11]        IsComboBoxAnimationEnabled : True
+[26.03.2025 20:50:11]        IsTitleBarGradientEnabled : True
+[26.03.2025 20:50:11]        IsHotTrackingEnabled : True
+[26.03.2025 20:50:11]        IsListBoxSmoothScrollingEnabled : True
+[26.03.2025 20:50:11]        IsMenuAnimationEnabled : True
+[26.03.2025 20:50:11]        IsSelectionFadeEnabled : True
+[26.03.2025 20:50:11]        IsToolTipAnimationEnabled : True
+[26.03.2025 20:50:11]        UIEffectsEnabled : True
+[26.03.2025 20:50:11]        IsActiveWindowTrackingEnabled : False
+[26.03.2025 20:50:11]        ActiveWindowTrackingDelay : 0
+[26.03.2025 20:50:11]        IsMinimizeRestoreAnimationEnabled : False
+[26.03.2025 20:50:11]        BorderMultiplierFactor : 1
+[26.03.2025 20:50:11]        CaretBlinkTime : 530
+[26.03.2025 20:50:11]        CaretWidth : 1
+[26.03.2025 20:50:11]        MouseWheelScrollDelta : 120
+[26.03.2025 20:50:11]        VerticalFocusThickness : 1
+[26.03.2025 20:50:11]        HorizontalFocusThickness : 1
+[26.03.2025 20:50:11]        VerticalResizeBorderThickness : 4
+[26.03.2025 20:50:11]        HorizontalResizeBorderThickness : 4
+[26.03.2025 20:50:11]        ScreenOrientation : Angle0
+[26.03.2025 20:50:11]        SizingBorderWidth : 1
+[26.03.2025 20:50:11]        SmallCaptionButtonSize : {Width=22, Height=22}
+[26.03.2025 20:50:11]        MenuBarButtonSize : {Width=19, Height=19}
+[26.03.2025 20:50:11]OS is: Windows
+[26.03.2025 20:50:11]    X64
+[26.03.2025 20:50:11]    Microsoft Windows 10.0.26100 
+[26.03.2025 20:50:11]System Info Collection Complete!
+[26.03.2025 20:50:11]Starting Hardware Info Collection
+[26.03.2025 20:50:11]Is User conected? False
+[26.03.2025 20:50:11]Setings from MyDocuments loaded succeeded
+[26.03.2025 20:50:11]language set: English
+[26.03.2025 20:50:11]BackgroundImage set to main in user folder, which is Main
+[26.03.2025 20:50:11]BackgroundImage trying to load:C:\Program Files (x86)\Steam\steamapps\common\Shadow Empire\Launcher\Images\Main.png
+[26.03.2025 20:50:11]Back groundImage has been loaded
+[26.03.2025 20:50:11]Theme loaded: Main
+[26.03.2025 20:50:11]Top Cover loaded: False
+[26.03.2025 20:50:11]Bottom Cover loaded: True
+[26.03.2025 20:50:11]Checking brand
+[26.03.2025 20:50:11]Setting up for: steam
+[26.03.2025 20:50:11]     Setting gameID to: shadow-empire
+[26.03.2025 20:50:11]     Setting website link to: https://store.steampowered.com/app/1154840
+[26.03.2025 20:50:11]     Setting support link to: https://store.steampowered.com/app/1154840
+[26.03.2025 20:50:11]     Setting forum link to: https://steamcommunity.com/app/1154840/discussions/
+[26.03.2025 20:50:11]     Setting logoWebsite link to: https://store.steampowered.com/publisher/Slitherine
+[26.03.2025 20:50:11]     Update button Hidden
+[26.03.2025 20:50:11]Steam set up!
+[26.03.2025 20:50:11]setting up for Marketing browser
+[26.03.2025 20:50:11]setting up buttons
+[26.03.2025 20:50:11]2 Making Marketing Browser
+[26.03.2025 20:50:11]2 Marketing panel setting up
+[26.03.2025 20:50:11]2 Marketing panel set up
+[26.03.2025 20:50:11]Button begining created
+[26.03.2025 20:50:11]     Button is file or folder
+[26.03.2025 20:50:11]     \whatsnew.pdf
+[26.03.2025 20:50:11]     Button is called Version: 1.26.16
+[26.03.2025 20:50:11]Button Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]Button begining created
+[26.03.2025 20:50:11]     Button is GameEXE:
+[26.03.2025 20:50:11]     \ShadowEmpire.exe
+[26.03.2025 20:50:11]     Button is Large
+[26.03.2025 20:50:11]Button Has been created!!
+[26.03.2025 20:50:11]Button begining created
+[26.03.2025 20:50:11]     Button is GameEXE:
+[26.03.2025 20:50:11]     \ConfigCopy.exe
+[26.03.2025 20:50:11]     Button is normal sized
+[26.03.2025 20:50:11]Button Has been created!!
+[26.03.2025 20:50:11]Button begining created
+[26.03.2025 20:50:11]     Button is Manual:
+[26.03.2025 20:50:11]     \Manuals\Shadow Empire manual EBOOK.pdf
+[26.03.2025 20:50:11]     Button is normal sized
+[26.03.2025 20:50:11]Button Has been created!!
+[26.03.2025 20:50:11]Starting button event binding
+[26.03.2025 20:50:11]button events have be bound
+[26.03.2025 20:50:11]Button begining created
+[26.03.2025 20:50:11]     Button is website:
+[26.03.2025 20:50:11]     https://store.steampowered.com/app/1154840
+[26.03.2025 20:50:11]     Button is called Product Page
+[26.03.2025 20:50:11]Button Has been created!!
+[26.03.2025 20:50:11]Button begining created
+[26.03.2025 20:50:11]     Button is website:
+[26.03.2025 20:50:11]     https://steamcommunity.com/app/1154840/discussions/
+[26.03.2025 20:50:11]     Button is called Forum
+[26.03.2025 20:50:11]Button Has been created!!
+[26.03.2025 20:50:11]Button begining created
+[26.03.2025 20:50:11]     Button is website:
+[26.03.2025 20:50:11]     https://help.steampowered.com/en/wizard/HelpWithGame/?appid=1154840
+[26.03.2025 20:50:11]     Button is called Support
+[26.03.2025 20:50:11]Button Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:11]community icon Has been created!!
+[26.03.2025 20:50:12]Launcher is set up!
+[26.03.2025 20:50:12]2 Marketing panel attached
+[26.03.2025 20:50:12]     New Pic box called: PictureBox_
+[26.03.2025 20:50:12]2 Marketing panel pic setting up
+[26.03.2025 20:50:12]2 Marketing panel pic attached
+[26.03.2025 20:50:12]2 Marketing panel internet testing
+[26.03.2025 20:50:12]2 Marketing panel internet has returned
+[26.03.2025 20:50:12]2 Marketing Browser made
+[26.03.2025 20:50:22]User is considering: Manual
+[26.03.2025 20:50:22]User is no longer considering: Manual
+[26.03.2025 20:50:22]User is considering: Reset Game Settings
+[26.03.2025 20:50:22]User is no longer considering: Reset Game Settings
+[26.03.2025 20:50:22]User is considering: Play
+[26.03.2025 20:50:22]Button has been pressed
+[26.03.2025 20:50:22]Trying to play sound
+[26.03.2025 20:50:22]Sound played!
+[26.03.2025 20:50:22]     It was an exe, attempting start of exe
+[26.03.2025 20:50:22]     Killed Marketing Browser? False
+[26.03.2025 20:50:22]     arguments passed: 
+[26.03.2025 20:50:22]     Begining normal start
+[26.03.2025 20:50:22]     Application Started
+[26.03.2025 20:50:22]     Laucher shrunk
